@@ -1,5 +1,4 @@
 class SudokuSolver {
-  //Code from Landon Schlangen video-> https://youtu.be/6XDcvG2ZCRc?si=KtKQlb8jVUTcD_1J
   validate(puzzleString) {
 
   }
